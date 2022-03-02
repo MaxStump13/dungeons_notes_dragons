@@ -9,7 +9,7 @@
 - [License](#license) -- https://opensource.org/licenses/MIT
 
 ## Installation
-        - Just open in the browser via the link provided. 
+        - Just open in the browser via the link provided. [Heroku](https://dnoted.herokuapp.com/) [GitHub Repo](https://github.com/MaxStump13/dungeons_notes_dragons)
 ## Usage
         - In the browser @ 
 ## Screenshot
@@ -38,5 +38,6 @@
 ## Tests
         - Application tested manually at milestones.
 ## Questions
-    - Please direct questions to andrew.read.dev@gmail.com    
-    - GitHub  https://www.github.com/MaxStump13 
+    - Please direct questions to stumpmaximilian@gmail.com 
+       
+     Here is the link to my profile [GitHub](https://github.com/MaxStump13/)
